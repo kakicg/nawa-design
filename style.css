@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+	
+	text-align: center;
+	
+}
+div#scrn {
+	margin:auto;
+	width: 800px;
+	height: 600px;
+}

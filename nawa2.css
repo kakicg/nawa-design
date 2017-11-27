@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+#top-introduction {
+	width: 960px;
+	height: 792px;
+	margin: 0px auto;
+	text-align: left;
+	font-family: Arial,"ヒラギノ角ゴ Pro W3","メイリオ","ＭＳ Ｐゴシック", sans-serif;
+	background: url(images/top2.png);
+	position: relative;
+}
+#top-introduction a#link {
+	background: url(images/buttons.png);
+	background-position: 0 0;
+	width: 117px;
+	height: 116px;
+	position: absolute;
+	left: 621px;
+	top: 337px;
+	display: block;
+	text-indent: -9999px;
+	
+}
+#top-introduction a#link:hover {
+	background: url(images/buttons.png);
+	background-position: 117px 0;
+	
+}

@@ -1,0 +1,66 @@
+@charset "UTF-8";
+* { margin:0; padding:0;}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear :both;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-table;
+}
+/* MacIE begin \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+/* MacIE end */
+
+img { border:none;}
+body {
+	text-align: center;
+	font-size:100%;
+	font-family: "ヒラギノ角ゴ Pro W3, ＭＳ Ｐゴシック", Osaka";
+}
+ul {
+	list-style-type: none;
+}
+
+#header {
+	background-image: url(assets/site/juku/images/header.gif);
+	background-repeat: no-repeat;
+}
+ul#top-menu {
+	height: 44px;
+}
+ul#top-menu li{
+	width: 99px;
+	float:left;
+	border-left: solid 1px #333;
+	list-style-type: none;
+	height: 32px;
+}
+ul#top-menu li#small-logo{
+	width: 87px;
+	border-left: none;
+}
+#page {
+	border: solid 1px #333;
+	margin:0 auto;
+	width: 787px;
+}
+#content {
+}
+#footer {
+	border-top: solid 1px #333;
+}
+
+#top-lead {
+	line-height:150%;
+	font-size:12px;
+}
+

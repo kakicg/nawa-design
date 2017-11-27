@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <FileVersion>2.0</FileVersion>
+  <AuthVersion>ActiBook  [[4.8.2.0_SD]]_3.12.0.0</AuthVersion>
+  <name>THE WORK COLLECTION for VISUAL COMMUNICATION</name>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <start>1</start>
+  <total>32</total>
+  <to_type>rich</to_type>
+  <to_open>left</to_open>
+  <Property CategoryName="PageFlip" Name="GrabRange" ValueType="Percent" Value="15"/>
+  <Property CategoryName="PageFlip" Name="GrabType" ValueType="Enum" Value="edge"/>
+  <noanalytics/>
+  <downsizing/>
+  <w>436.754333496094</w>
+  <h>618</h>
+  <PageSizes>
+    <PageSize zoom="1" w="436.754333496094" h="618"/>
+    <PageSize zoom="2" w="874" h="1236"/>
+  </PageSizes>
+<pages>
+<page>
+  <cover>front</cover>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>1</ActiBookPageNumber>
+  <number>1</number>
+  <numbering>1</numbering>
+  <image>g_1</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>2</ActiBookPageNumber>
+  <number>2</number>
+  <numbering>2</numbering>
+  <image>g_2</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>3</ActiBookPageNumber>
+  <number>3</number>
+  <numbering>3</numbering>
+  <image>g_3</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>4</ActiBookPageNumber>
+  <number>4</number>
+  <numbering>4</numbering>
+  <image>g_4</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>5</ActiBookPageNumber>
+  <number>5</number>
+  <numbering>5</numbering>
+  <image>g_5</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>6</ActiBookPageNumber>
+  <number>6</number>
+  <numbering>6</numbering>
+  <image>g_6</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>7</ActiBookPageNumber>
+  <number>7</number>
+  <numbering>7</numbering>
+  <image>g_7</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>8</ActiBookPageNumber>
+  <number>8</number>
+  <numbering>8</numbering>
+  <image>g_8</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>9</ActiBookPageNumber>
+  <number>9</number>
+  <numbering>9</numbering>
+  <image>g_9</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>10</ActiBookPageNumber>
+  <number>10</number>
+  <numbering>10</numbering>
+  <image>g_10</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>11</ActiBookPageNumber>
+  <number>11</number>
+  <numbering>11</numbering>
+  <image>g_11</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>12</ActiBookPageNumber>
+  <number>12</number>
+  <numbering>12</numbering>
+  <image>g_12</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>13</ActiBookPageNumber>
+  <number>13</number>
+  <numbering>13</numbering>
+  <image>g_13</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>14</ActiBookPageNumber>
+  <number>14</number>
+  <numbering>14</numbering>
+  <image>g_14</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>15</ActiBookPageNumber>
+  <number>15</number>
+  <numbering>15</numbering>
+  <image>g_15</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>16</ActiBookPageNumber>
+  <number>16</number>
+  <numbering>16</numbering>
+  <image>g_16</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>17</ActiBookPageNumber>
+  <number>17</number>
+  <numbering>17</numbering>
+  <image>g_17</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>18</ActiBookPageNumber>
+  <number>18</number>
+  <numbering>18</numbering>
+  <image>g_18</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>19</ActiBookPageNumber>
+  <number>19</number>
+  <numbering>19</numbering>
+  <image>g_19</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>20</ActiBookPageNumber>
+  <number>20</number>
+  <numbering>20</numbering>
+  <image>g_20</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>21</ActiBookPageNumber>
+  <number>21</number>
+  <numbering>21</numbering>
+  <image>g_21</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>22</ActiBookPageNumber>
+  <number>22</number>
+  <numbering>22</numbering>
+  <image>g_22</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>23</ActiBookPageNumber>
+  <number>23</number>
+  <numbering>23</numbering>
+  <image>g_23</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>24</ActiBookPageNumber>
+  <number>24</number>
+  <numbering>24</numbering>
+  <image>g_24</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>25</ActiBookPageNumber>
+  <number>25</number>
+  <numbering>25</numbering>
+  <image>g_25</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>26</ActiBookPageNumber>
+  <number>26</number>
+  <numbering>26</numbering>
+  <image>g_26</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>27</ActiBookPageNumber>
+  <number>27</number>
+  <numbering>27</numbering>
+  <image>g_27</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>28</ActiBookPageNumber>
+  <number>28</number>
+  <numbering>28</numbering>
+  <image>g_28</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>29</ActiBookPageNumber>
+  <number>29</number>
+  <numbering>29</numbering>
+  <image>g_29</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>30</ActiBookPageNumber>
+  <number>30</number>
+  <numbering>30</numbering>
+  <image>g_30</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>31</ActiBookPageNumber>
+  <number>31</number>
+  <numbering>31</numbering>
+  <image>g_31</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+<page>
+  <cover>back</cover>
+  <title></title>
+  <Keywords></Keywords>
+  <description></description>
+  <ActiBookPageNumber>32</ActiBookPageNumber>
+  <number>32</number>
+  <numbering>32</numbering>
+  <image>g_32</image>
+  <type>jpg</type>
+  <v_image></v_image>
+  <v_color>E6E8E8</v_color>
+  <v_music></v_music>
+  <print/>
+  <texts/>
+  <animations/>
+  <insides/>
+  <outsides/>
+</page>
+
+</pages>
+</book>
